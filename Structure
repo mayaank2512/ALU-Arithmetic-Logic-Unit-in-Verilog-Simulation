@@ -1,0 +1,8 @@
+ALU-Design/
+│── verilog_codes/
+│   ├── ALU.v
+│── testbenches/
+│   ├── alu_tb.v
+│── simulation_results/
+│   ├── alu_wave.vcd
+│── README.md
